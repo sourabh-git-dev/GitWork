@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7c1fae-fef0-4697-95b2-f69bbcd633bd" name="Changes" comment="New file">
-      <change beforePath="$PROJECT_DIR$/src/CodingEcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingEcs.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d7c1fae-fef0-4697-95b2-f69bbcd633bd" name="Changes" comment="New file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,13 +25,28 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="main" />
-      </list>
-    </option>
-  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ashaa07"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sourabh-git-dev/GitWork",
+    "accountId": "0132d342-5c81-420b-8b94-517862e1f12e"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "sourabh-git-dev",
+    "repository": "GitWork"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Stringex.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -66,10 +79,14 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "asha",
+    "git-widget-placeholder": "#5 on asha",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Project/Protfolio/Java/String",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "E:/Project/Protfolio/Java/String/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -109,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763306127686</updated>
-      <workItem from="1774278561140" duration="50000" />
+      <workItem from="1774278561140" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="New file">
       <option name="closed" value="true" />
@@ -119,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774273373885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New file">
+      <option name="closed" value="true" />
+      <created>1774278654630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774278654630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
