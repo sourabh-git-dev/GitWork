@@ -40,7 +40,7 @@ public class CodingEcs {
 
         }
         finally {
-            System.out.println("Asha-Finally only  main branch");
+            System.out.println("Asha-Finally");
         }
 
         CodingEcs demo=new CodingEcs();
