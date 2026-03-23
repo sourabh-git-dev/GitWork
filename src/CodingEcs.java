@@ -40,7 +40,7 @@ public class CodingEcs {
 
         }
         finally {
-            System.out.println("Asha-Finally");
+            System.out.println("Asha-New-Finally");
         }
 
         CodingEcs demo=new CodingEcs();
