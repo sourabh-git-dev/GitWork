@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d7c1fae-fef0-4697-95b2-f69bbcd633bd" name="Changes" comment="New file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CodingEcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingEcs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Stringex.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -35,29 +41,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CodingEcs.executor": "Run",
-    "Application.Core.executor": "Run",
-    "Application.Duplicate.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainClass.executor": "Run",
-    "Application.Pattern.executor": "Run",
-    "Application.Stream.executor": "Run",
-    "Application.Stringex.executor": "Run",
-    "Application.play.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Project/Protfolio/Java/String",
-    "onboarding.tips.debug.path": "E:/Project/Protfolio/Java/String/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "file.status.colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CodingEcs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Core.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.play.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Project/Protfolio/Java/String&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Project/Protfolio/Java/String/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;file.status.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Duplicate" />
