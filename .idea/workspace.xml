@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7c1fae-fef0-4697-95b2-f69bbcd633bd" name="Changes" comment="">
+    <list default="true" id="5d7c1fae-fef0-4697-95b2-f69bbcd633bd" name="Changes" comment="New file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingEcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingEcs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1763306127686</updated>
     </task>
+    <task id="LOCAL-00001" summary="New file">
+      <option name="closed" value="true" />
+      <created>1774273373885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774273373885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +102,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New file" />
+    <option name="LAST_COMMIT_MESSAGE" value="New file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

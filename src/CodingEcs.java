@@ -39,6 +39,9 @@ public class CodingEcs {
             System.out.println("exception main");
 
         }
+        finally {
+            System.out.println("Finally");
+        }
 
         CodingEcs demo=new CodingEcs();
 
